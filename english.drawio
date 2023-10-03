@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-03T19:56:45.586Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="9yS-mvjCVGFxAnDQmVuv" version="22.0.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-10-03T21:01:38.266Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="ZOPdiuFjhsoce5FXTNDj" version="22.0.2" type="github" pages="7">
   <diagram name="فرایند کلی" id="xsqYRld1EPz5g1VZykKL">
     <mxGraphModel dx="1434" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -9,13 +9,13 @@
             <mxPoint x="700" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sSDSPZ2XbrXsTm6EUvnx-4" value="شروع" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="sSDSPZ2XbrXsTm6EUvnx-4" value="start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="660" y="260" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2bsC5gfimS9htGCfTkEi-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sSDSPZ2XbrXsTm6EUvnx-23" target="2bsC5gfimS9htGCfTkEi-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sSDSPZ2XbrXsTm6EUvnx-23" value="شروع" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="sSDSPZ2XbrXsTm6EUvnx-23" value="start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="910" y="260" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sSDSPZ2XbrXsTm6EUvnx-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="sSDSPZ2XbrXsTm6EUvnx-28" edge="1">
@@ -26,20 +26,14 @@
         <mxCell id="sSDSPZ2XbrXsTm6EUvnx-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sSDSPZ2XbrXsTm6EUvnx-28" target="sSDSPZ2XbrXsTm6EUvnx-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sSDSPZ2XbrXsTm6EUvnx-28" value="انجام فرایند انطباق نیازمندی‌های کارفرماها و رزومه‌های کارجویان" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="sSDSPZ2XbrXsTm6EUvnx-28" value="matching process between employers requirements and information of each &lt;br&gt;job seekers" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="875" y="660" width="150" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="sSDSPZ2XbrXsTm6EUvnx-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sSDSPZ2XbrXsTm6EUvnx-39" target="sSDSPZ2XbrXsTm6EUvnx-41" edge="1">
+        <mxCell id="JIcvqCr_vU4aNH1LNSFw-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sSDSPZ2XbrXsTm6EUvnx-39" target="sSDSPZ2XbrXsTm6EUvnx-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sSDSPZ2XbrXsTm6EUvnx-39" value="ارسال معرفی‌نامه &lt;br&gt;به کارجو جهت تنظیم وقت مصاحبه" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="890" y="895" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sSDSPZ2XbrXsTm6EUvnx-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sSDSPZ2XbrXsTm6EUvnx-41" target="sSDSPZ2XbrXsTm6EUvnx-43" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sSDSPZ2XbrXsTm6EUvnx-41" value="دریافت بازخورد کارجو بابت شغل پیدا شده و برنامه او &lt;br&gt;برای ادامه یا عدم ادامه آن" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="870" y="1040" width="160" height="60" as="geometry" />
+        <mxCell id="sSDSPZ2XbrXsTm6EUvnx-39" value="send job offer for&lt;br&gt;job seeker and schedule&lt;br&gt;&amp;nbsp;an job interview" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="875" y="950" width="150" height="85" as="geometry" />
         </mxCell>
         <mxCell id="sSDSPZ2XbrXsTm6EUvnx-47" value="بله" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sSDSPZ2XbrXsTm6EUvnx-43" target="sSDSPZ2XbrXsTm6EUvnx-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -53,7 +47,7 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sSDSPZ2XbrXsTm6EUvnx-43" value="کارجو پذیرفته و برای مصاحبه می‌رود" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="sSDSPZ2XbrXsTm6EUvnx-43" value="job seeker accepts &lt;br&gt;the job offer" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="882.5" y="1180" width="135" height="130" as="geometry" />
         </mxCell>
         <mxCell id="sSDSPZ2XbrXsTm6EUvnx-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sSDSPZ2XbrXsTm6EUvnx-46" target="sSDSPZ2XbrXsTm6EUvnx-48" edge="1">
@@ -72,8 +66,8 @@
             <mxPoint x="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sSDSPZ2XbrXsTm6EUvnx-46" value="کارجو مصاحبه&lt;br&gt;&amp;nbsp;را شرکت کرده" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="890" y="1360" width="120" height="130" as="geometry" />
+        <mxCell id="sSDSPZ2XbrXsTm6EUvnx-46" value="job seeker&lt;br&gt;participated in&lt;br&gt;the job interview" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="875" y="1360" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="sSDSPZ2XbrXsTm6EUvnx-50" value="خیر" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="sSDSPZ2XbrXsTm6EUvnx-48" target="sSDSPZ2XbrXsTm6EUvnx-28" edge="1">
           <mxGeometry x="-0.8095" relative="1" as="geometry">
@@ -89,7 +83,7 @@
         <mxCell id="sSDSPZ2XbrXsTm6EUvnx-48" value="حداقل یک سال از شروع &lt;br&gt;فرایند جست‌وجوی &lt;br&gt;کار کارجو گذشته" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1140" y="980" width="190" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="sSDSPZ2XbrXsTm6EUvnx-51" value="پایان" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="sSDSPZ2XbrXsTm6EUvnx-51" value="end" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1420" y="1025" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sSDSPZ2XbrXsTm6EUvnx-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sSDSPZ2XbrXsTm6EUvnx-55" target="sSDSPZ2XbrXsTm6EUvnx-61" edge="1">
@@ -119,7 +113,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sSDSPZ2XbrXsTm6EUvnx-55" value="کارجو پذیرفته و&lt;br&gt;&amp;nbsp;مشغول به کار شده" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="sSDSPZ2XbrXsTm6EUvnx-55" value="job seeker got employed" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="870" y="1570" width="160" height="140" as="geometry" />
         </mxCell>
         <mxCell id="sSDSPZ2XbrXsTm6EUvnx-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="sSDSPZ2XbrXsTm6EUvnx-61" target="sSDSPZ2XbrXsTm6EUvnx-66" edge="1">
@@ -134,7 +128,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sSDSPZ2XbrXsTm6EUvnx-61" value="دریافت بازخورد &lt;br&gt;کارجو" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="sSDSPZ2XbrXsTm6EUvnx-61" value="get feedback from&amp;nbsp;&lt;br&gt;job seeker" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="1370" width="145" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sSDSPZ2XbrXsTm6EUvnx-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="sSDSPZ2XbrXsTm6EUvnx-65" target="sSDSPZ2XbrXsTm6EUvnx-66" edge="1">
@@ -147,13 +141,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sSDSPZ2XbrXsTm6EUvnx-65" value="دریافت بازخورد کارفرما" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="sSDSPZ2XbrXsTm6EUvnx-65" value="get feedback from employer" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="1220" width="145" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sSDSPZ2XbrXsTm6EUvnx-66" value="استفاده برای تقویت مدل‌های &lt;br&gt;هوش مصنوعی" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="sSDSPZ2XbrXsTm6EUvnx-66" value="use for learning &lt;br&gt;machine learning algorithms" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="1290" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sSDSPZ2XbrXsTm6EUvnx-69" value="پایان" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="sSDSPZ2XbrXsTm6EUvnx-69" value="end" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="330" y="1590" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2bsC5gfimS9htGCfTkEi-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="2bsC5gfimS9htGCfTkEi-1" target="sSDSPZ2XbrXsTm6EUvnx-28" edge="1">
@@ -163,10 +157,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2bsC5gfimS9htGCfTkEi-1" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;دریافت اطلاعات و نیازمندی‌های شغلی&lt;br&gt;&amp;nbsp;کارحویان&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="630" y="430" width="140" height="70" as="geometry" />
+        <mxCell id="2bsC5gfimS9htGCfTkEi-1" value="receive job seekers information and &lt;br&gt;requirements" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="430" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="2bsC5gfimS9htGCfTkEi-2" value="دریافت اطلاعات و نیازمندی‌های شغلی کارفرمایان" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+        <mxCell id="2bsC5gfimS9htGCfTkEi-2" value="receive employers&lt;br&gt;job requirements" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="880" y="430" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
