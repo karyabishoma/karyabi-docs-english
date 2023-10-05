@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2023-10-03T21:01:38.266Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="ZOPdiuFjhsoce5FXTNDj" version="22.0.2" type="github" pages="7">
-  <diagram name="فرایند کلی" id="xsqYRld1EPz5g1VZykKL">
+<mxfile host="app.diagrams.net" modified="2023-10-05T23:16:17.820Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="pV28aS5kuc2N87Q4ROa7" version="22.0.3" type="github" pages="7">
+  <diagram name="general process" id="xsqYRld1EPz5g1VZykKL">
     <mxGraphModel dx="1434" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -29,16 +29,16 @@
         <mxCell id="sSDSPZ2XbrXsTm6EUvnx-28" value="matching process between employers requirements and information of each &lt;br&gt;job seekers" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="875" y="660" width="150" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="JIcvqCr_vU4aNH1LNSFw-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sSDSPZ2XbrXsTm6EUvnx-39" target="sSDSPZ2XbrXsTm6EUvnx-43">
+        <mxCell id="JIcvqCr_vU4aNH1LNSFw-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sSDSPZ2XbrXsTm6EUvnx-39" target="sSDSPZ2XbrXsTm6EUvnx-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sSDSPZ2XbrXsTm6EUvnx-39" value="send job offer for&lt;br&gt;job seeker and schedule&lt;br&gt;&amp;nbsp;an job interview" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="sSDSPZ2XbrXsTm6EUvnx-39" value="send job invitation&amp;nbsp;to&lt;br&gt;job seeker and schedule&lt;br&gt;&amp;nbsp;an job interview" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="875" y="950" width="150" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="sSDSPZ2XbrXsTm6EUvnx-47" value="بله" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sSDSPZ2XbrXsTm6EUvnx-43" target="sSDSPZ2XbrXsTm6EUvnx-46" edge="1">
+        <mxCell id="sSDSPZ2XbrXsTm6EUvnx-47" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sSDSPZ2XbrXsTm6EUvnx-43" target="sSDSPZ2XbrXsTm6EUvnx-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZDBWHXLZpJ7x8ohFpdqg-1" value="خیر" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="sSDSPZ2XbrXsTm6EUvnx-43" target="sSDSPZ2XbrXsTm6EUvnx-28" edge="1">
+        <mxCell id="ZDBWHXLZpJ7x8ohFpdqg-1" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="sSDSPZ2XbrXsTm6EUvnx-43" target="sSDSPZ2XbrXsTm6EUvnx-28" edge="1">
           <mxGeometry x="-0.7984" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1080" y="1245" />
@@ -47,13 +47,13 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sSDSPZ2XbrXsTm6EUvnx-43" value="job seeker accepts &lt;br&gt;the job offer" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="sSDSPZ2XbrXsTm6EUvnx-43" value="job seeker accepts &lt;br&gt;the job invitation" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="882.5" y="1180" width="135" height="130" as="geometry" />
         </mxCell>
         <mxCell id="sSDSPZ2XbrXsTm6EUvnx-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sSDSPZ2XbrXsTm6EUvnx-46" target="sSDSPZ2XbrXsTm6EUvnx-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LDO11jCoYHWOFDX3HLIF-2" value="خیر" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="sSDSPZ2XbrXsTm6EUvnx-49" vertex="1" connectable="0">
+        <mxCell id="LDO11jCoYHWOFDX3HLIF-2" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="sSDSPZ2XbrXsTm6EUvnx-49" vertex="1" connectable="0">
           <mxGeometry x="-0.6305" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -61,7 +61,7 @@
         <mxCell id="sSDSPZ2XbrXsTm6EUvnx-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sSDSPZ2XbrXsTm6EUvnx-46" target="sSDSPZ2XbrXsTm6EUvnx-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LDO11jCoYHWOFDX3HLIF-1" value="بله" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="sSDSPZ2XbrXsTm6EUvnx-56" vertex="1" connectable="0">
+        <mxCell id="LDO11jCoYHWOFDX3HLIF-1" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="sSDSPZ2XbrXsTm6EUvnx-56" vertex="1" connectable="0">
           <mxGeometry x="-0.0489" y="3" relative="1" as="geometry">
             <mxPoint x="-3" as="offset" />
           </mxGeometry>
@@ -80,7 +80,7 @@
         <mxCell id="sSDSPZ2XbrXsTm6EUvnx-52" value="بله" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sSDSPZ2XbrXsTm6EUvnx-48" target="sSDSPZ2XbrXsTm6EUvnx-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sSDSPZ2XbrXsTm6EUvnx-48" value="حداقل یک سال از شروع &lt;br&gt;فرایند جست‌وجوی &lt;br&gt;کار کارجو گذشته" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="sSDSPZ2XbrXsTm6EUvnx-48" value="at least one year past&lt;br&gt;science job seeking process" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1140" y="980" width="190" height="170" as="geometry" />
         </mxCell>
         <mxCell id="sSDSPZ2XbrXsTm6EUvnx-51" value="end" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -166,7 +166,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="AI_ywK6Y2zHT0PRTYx18" name="عملکرد سیستم هوش مصنوعی">
+  <diagram id="AI_ywK6Y2zHT0PRTYx18" name="machine learning system process">
     <mxGraphModel dx="1434" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -174,13 +174,13 @@
         <mxCell id="sYQbKtf1OWb_VVA9LpRW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.048;entryY=-0.025;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="sYQbKtf1OWb_VVA9LpRW-1" target="sYQbKtf1OWb_VVA9LpRW-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sYQbKtf1OWb_VVA9LpRW-1" value="دریافت اطلاعات و نیازمندی‌های شغلی&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;کارجویان" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+        <mxCell id="sYQbKtf1OWb_VVA9LpRW-1" value="receive job seekers information and&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;requirements" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="280" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kmXiDlGhCLg3P48TQO2j-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.953;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="sYQbKtf1OWb_VVA9LpRW-4" target="sYQbKtf1OWb_VVA9LpRW-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sYQbKtf1OWb_VVA9LpRW-4" value="دریافت اطلاعات و نیازمندی‌های شغلی کارفرمایان" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+        <mxCell id="sYQbKtf1OWb_VVA9LpRW-4" value="receive employers&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;job requirements and information" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="280" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sYQbKtf1OWb_VVA9LpRW-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="sYQbKtf1OWb_VVA9LpRW-8" target="sYQbKtf1OWb_VVA9LpRW-16" edge="1">
@@ -203,13 +203,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sYQbKtf1OWb_VVA9LpRW-8" value="یکپارچه سازی ساختار اطلاعات&lt;br&gt;&amp;nbsp;و ذخیره سازی آنها&lt;br&gt;در دسته شغلی و شهر مورد نظر" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="sYQbKtf1OWb_VVA9LpRW-8" value="data pre-process and integration&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;job requirements and group by&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;region and job category" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="430" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="sYQbKtf1OWb_VVA9LpRW-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="sYQbKtf1OWb_VVA9LpRW-16" target="sYQbKtf1OWb_VVA9LpRW-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sYQbKtf1OWb_VVA9LpRW-16" value="انجام فرایند انطباق توسط روش هوش مصنوعی&lt;br&gt;content based" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="sYQbKtf1OWb_VVA9LpRW-16" value="matching employers and job seekers datapoints using&amp;nbsp;&lt;br&gt;content based&amp;nbsp;&lt;br&gt;machine learning algorithm" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="135" y="680" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="sYQbKtf1OWb_VVA9LpRW-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="sYQbKtf1OWb_VVA9LpRW-19" target="sYQbKtf1OWb_VVA9LpRW-28" edge="1">
@@ -220,19 +220,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sYQbKtf1OWb_VVA9LpRW-19" value="انجام&amp;nbsp;فرآیند انطباق توسط&lt;br&gt;&amp;nbsp;مدل هوش مصنوعی&lt;br&gt;collaborative filtering" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="sYQbKtf1OWb_VVA9LpRW-19" value="matching employers and job seekers datapoints using&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;collaborative filtering&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;machine learning algorithm" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="425" y="670" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="sYQbKtf1OWb_VVA9LpRW-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="sYQbKtf1OWb_VVA9LpRW-26" target="sYQbKtf1OWb_VVA9LpRW-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sYQbKtf1OWb_VVA9LpRW-26" value="بهروز رسانی ضرایب&lt;br&gt;&amp;nbsp;مدل هوش مصنوعی&amp;nbsp;&lt;br&gt;collaborative filtering" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="sYQbKtf1OWb_VVA9LpRW-26" value="update collaborative filtering machine learning algorithm weights" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="880" y="510" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sYQbKtf1OWb_VVA9LpRW-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sYQbKtf1OWb_VVA9LpRW-28" target="sYQbKtf1OWb_VVA9LpRW-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sYQbKtf1OWb_VVA9LpRW-28" value="تلفیق نتایج به روش رای گیری و &lt;br&gt;وزن دهی با حساب درجه اطمینان هرکدام به صورت اتوماتیک" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="sYQbKtf1OWb_VVA9LpRW-28" value="merging two algorithms results&lt;br&gt;by voting system with&lt;br&gt;weights" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="880" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="sYQbKtf1OWb_VVA9LpRW-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="sYQbKtf1OWb_VVA9LpRW-32" target="sYQbKtf1OWb_VVA9LpRW-26" edge="1">
@@ -243,19 +243,19 @@
             <mxPoint x="370" y="1180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sYQbKtf1OWb_VVA9LpRW-32" value="ذخیره سازی نتایج نهایی" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="sYQbKtf1OWb_VVA9LpRW-32" value="store final results" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="295" y="1050" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sYQbKtf1OWb_VVA9LpRW-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="sYQbKtf1OWb_VVA9LpRW-34" target="sYQbKtf1OWb_VVA9LpRW-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sYQbKtf1OWb_VVA9LpRW-34" value="ذخیره سازی ضرایب مدل" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="sYQbKtf1OWb_VVA9LpRW-34" value="storing &lt;br&gt;model weights" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="720" y="685" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sYQbKtf1OWb_VVA9LpRW-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sYQbKtf1OWb_VVA9LpRW-38" target="sYQbKtf1OWb_VVA9LpRW-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sYQbKtf1OWb_VVA9LpRW-38" value="دریافت بازخوردهای &lt;br&gt;کارجویان و کارفرمایان" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+        <mxCell id="sYQbKtf1OWb_VVA9LpRW-38" value="receive job seekers and&amp;nbsp;&lt;br&gt;employers feedbacks" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="1160" y="505" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="gjl_Yu6PmO5IUz2v2nrs-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gjl_Yu6PmO5IUz2v2nrs-1" target="gjl_Yu6PmO5IUz2v2nrs-3" edge="1">
@@ -264,10 +264,10 @@
         <mxCell id="w2-kpWb-v1dsUUWtmuEk-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gjl_Yu6PmO5IUz2v2nrs-1" target="sYQbKtf1OWb_VVA9LpRW-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gjl_Yu6PmO5IUz2v2nrs-1" value="ارسال معرفی نامه" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="gjl_Yu6PmO5IUz2v2nrs-1" value="send job invitation" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="310" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gjl_Yu6PmO5IUz2v2nrs-3" value="پایان" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="gjl_Yu6PmO5IUz2v2nrs-3" value="end" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="330" y="1330" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Q7LduM8VD_5iMhh00GcL-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Q7LduM8VD_5iMhh00GcL-1" target="sYQbKtf1OWb_VVA9LpRW-1" edge="1">
@@ -284,13 +284,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q7LduM8VD_5iMhh00GcL-1" value="شروع" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="Q7LduM8VD_5iMhh00GcL-1" value="start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="340" y="150" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="doU2SKU-TRiqMJY24zdP" name="ادقام دو روش هوش مصنوعی">
+  <diagram id="doU2SKU-TRiqMJY24zdP" name="merging two algorithms results">
     <mxGraphModel dx="1434" dy="1903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -298,31 +298,31 @@
         <mxCell id="9Jsc9hv8LB5l6HOphNIL-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8z-_PV1dmMGFMt97LMeE-1" target="9Jsc9hv8LB5l6HOphNIL-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8z-_PV1dmMGFMt97LMeE-1" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;دریافت پنج نتیجه برتر فرایند انطباق&lt;br&gt;&amp;nbsp;به همراه درجه‌های اطمینان آنها توسط&lt;br&gt;&amp;nbsp;روش هوش مصنوعی مبتنی بر محتوا&lt;br&gt;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+        <mxCell id="8z-_PV1dmMGFMt97LMeE-1" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;receive five best matching results&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;with their confidence factor weights&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;for the machine learning content based algorithm&lt;br&gt;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="40" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="9Jsc9hv8LB5l6HOphNIL-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9Jsc9hv8LB5l6HOphNIL-3" target="9Jsc9hv8LB5l6HOphNIL-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9Jsc9hv8LB5l6HOphNIL-3" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;دریافت پنج نتیجه برتر فرآیند انطباق&lt;br&gt;&amp;nbsp;به همراه درجه‌های اطمینان آنها توسط&lt;br&gt;&amp;nbsp;مدل از پیش آموزش دیده با روش&lt;br&gt;&amp;nbsp;هوش مصنوعی ارتباط محتوایی&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+        <mxCell id="9Jsc9hv8LB5l6HOphNIL-3" value="receive five best matching results &lt;br&gt;with their confidence factor weights&lt;br&gt;for the machine learning collaborative filtering algorithm" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="495" y="40" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="9Jsc9hv8LB5l6HOphNIL-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9Jsc9hv8LB5l6HOphNIL-4" target="9Jsc9hv8LB5l6HOphNIL-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9Jsc9hv8LB5l6HOphNIL-4" value="ضرب درجه‌های اطمینان در وزن این روش" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="245" width="120" height="60" as="geometry" />
+        <mxCell id="9Jsc9hv8LB5l6HOphNIL-4" value="&amp;nbsp;multiply the results confidence factor&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;by the&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;algorithm effectiveness weight&amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="115" y="247.5" width="150" height="85" as="geometry" />
         </mxCell>
         <mxCell id="9Jsc9hv8LB5l6HOphNIL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9Jsc9hv8LB5l6HOphNIL-6" target="9Jsc9hv8LB5l6HOphNIL-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9Jsc9hv8LB5l6HOphNIL-6" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;ضرب درجه‌های اطمینان در وزن این روش&lt;/span&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="555" y="260" width="120" height="60" as="geometry" />
+        <mxCell id="9Jsc9hv8LB5l6HOphNIL-6" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&amp;nbsp;multiply the results confidence factor&lt;br&gt;&amp;nbsp;by the&lt;br&gt;algorithm effectiveness weight&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="537.5" y="245" width="155" height="90" as="geometry" />
         </mxCell>
         <mxCell id="9Jsc9hv8LB5l6HOphNIL-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9Jsc9hv8LB5l6HOphNIL-8" target="9Jsc9hv8LB5l6HOphNIL-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9Jsc9hv8LB5l6HOphNIL-8" value="لیست کردن اعداد با استفاده از عملگر&lt;br&gt;Logical OR" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="9Jsc9hv8LB5l6HOphNIL-8" value="merge weighted results using logical OR" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="365" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9Jsc9hv8LB5l6HOphNIL-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9Jsc9hv8LB5l6HOphNIL-11" target="9Jsc9hv8LB5l6HOphNIL-13" edge="1">
@@ -336,22 +336,22 @@
         <mxCell id="0oyyDDzwqcTkBLnyTRoW-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9Jsc9hv8LB5l6HOphNIL-11" target="0oyyDDzwqcTkBLnyTRoW-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9Jsc9hv8LB5l6HOphNIL-11" value="ذخریه گزینه اول لیست به عنوان نتیجه نهایی به همراه روش محاسبه کننده آن" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="9Jsc9hv8LB5l6HOphNIL-11" value="store the best result as the final result and the algorithm which found it" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="353" y="520" width="145" height="70" as="geometry" />
         </mxCell>
         <mxCell id="9Jsc9hv8LB5l6HOphNIL-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9Jsc9hv8LB5l6HOphNIL-13" target="9Jsc9hv8LB5l6HOphNIL-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9Jsc9hv8LB5l6HOphNIL-13" value="دریافت بازخورد کارجو&lt;br&gt;&amp;nbsp;و کارفرما به نتیجه انطباق" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+        <mxCell id="9Jsc9hv8LB5l6HOphNIL-13" value="receive job seekers and employers feedback on the match" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="620" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="9Jsc9hv8LB5l6HOphNIL-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9Jsc9hv8LB5l6HOphNIL-15" target="9Jsc9hv8LB5l6HOphNIL-17" edge="1">
+        <mxCell id="9Jsc9hv8LB5l6HOphNIL-18" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9Jsc9hv8LB5l6HOphNIL-15" target="9Jsc9hv8LB5l6HOphNIL-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9Jsc9hv8LB5l6HOphNIL-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9Jsc9hv8LB5l6HOphNIL-15" target="9Jsc9hv8LB5l6HOphNIL-19" edge="1">
+        <mxCell id="9Jsc9hv8LB5l6HOphNIL-20" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9Jsc9hv8LB5l6HOphNIL-15" target="9Jsc9hv8LB5l6HOphNIL-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9Jsc9hv8LB5l6HOphNIL-15" value="بازخورد مثبت بوده؟" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="9Jsc9hv8LB5l6HOphNIL-15" value="the feedback&lt;br&gt;was positive" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="882.5" y="455" width="95" height="95" as="geometry" />
         </mxCell>
         <mxCell id="9Jsc9hv8LB5l6HOphNIL-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9Jsc9hv8LB5l6HOphNIL-17" target="9Jsc9hv8LB5l6HOphNIL-21" edge="1">
@@ -362,8 +362,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9Jsc9hv8LB5l6HOphNIL-17" value="کاهش وزن روشی که این پیشنهاد را داده" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="700" y="472.5" width="120" height="60" as="geometry" />
+        <mxCell id="9Jsc9hv8LB5l6HOphNIL-17" value="reduce the effectiveness weight of the algorithm found this result" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="700" y="468.75" width="120" height="67.5" as="geometry" />
         </mxCell>
         <mxCell id="9Jsc9hv8LB5l6HOphNIL-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9Jsc9hv8LB5l6HOphNIL-19" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -374,7 +374,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9Jsc9hv8LB5l6HOphNIL-19" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;افزایش وزن روشی که این پیشنهاد را داده&lt;/span&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="9Jsc9hv8LB5l6HOphNIL-19" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;increase the effectiveness weight of the algorithm found this result&lt;/span&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1040" y="472.5" width="121" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9Jsc9hv8LB5l6HOphNIL-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9Jsc9hv8LB5l6HOphNIL-21" target="9Jsc9hv8LB5l6HOphNIL-6" edge="1">
@@ -384,11 +384,11 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="930" y="225" />
-              <mxPoint x="230" y="225" />
+              <mxPoint x="239" y="225" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9Jsc9hv8LB5l6HOphNIL-21" value="وزن دهی مجدد به هرکدام از دو روش و ذخیره آنها" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="9Jsc9hv8LB5l6HOphNIL-21" value="update algorithm&lt;br&gt;weights" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="870" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1kw9_37QbFerkpMZjwTe-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1kw9_37QbFerkpMZjwTe-1" target="9Jsc9hv8LB5l6HOphNIL-3" edge="1">
@@ -397,10 +397,10 @@
         <mxCell id="1kw9_37QbFerkpMZjwTe-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1kw9_37QbFerkpMZjwTe-1" target="8z-_PV1dmMGFMt97LMeE-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1kw9_37QbFerkpMZjwTe-1" value="شروع" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="1kw9_37QbFerkpMZjwTe-1" value="start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="370" y="-140" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0oyyDDzwqcTkBLnyTRoW-1" value="پایان" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="0oyyDDzwqcTkBLnyTRoW-1" value="end" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="385.5" y="665" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
